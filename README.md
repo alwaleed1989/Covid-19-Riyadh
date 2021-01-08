@@ -5,7 +5,7 @@ Display some information of covid19 in Saudi Arabia and Riyadh city
 
 
 ## How to run 
-You should have [java](https://www.java.com/en/download/) in your PC , and run the below command by thru terminal , 
+You should have [java](https://www.java.com/en/download/) in your PC , and run the below command thru terminal , 
 recommend to use [crontab](https://crontab.guru/) for schedule this task everyday 
 
 ```bash
