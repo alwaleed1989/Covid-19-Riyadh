@@ -6,7 +6,7 @@ Display some information of covid19 in all the world and Riyadh city
 
 ## How to run 
 You should have [java](https://www.java.com/en/download/) in your PC , and run the below command by thru terminal , 
-we recommend using [crontab](https://crontab.guru/) for schedule this task everyday 
+recommend to use [crontab](https://crontab.guru/) for schedule this task everyday 
 
 ```bash
 java -jar (path...)/Covid19Riyadh.jar
