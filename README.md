@@ -1,5 +1,5 @@
 # Covid19Riyadh.jar
-Display some information of covid19 in all the world and Riyadh city
+Display some information of covid19 in Saudi Arabia and Riyadh city
 
 ![alt text](https://github.com/walee1eed/RiyadhCovid19/blob/main/covid19Riyadh.png)
 
